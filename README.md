@@ -1,9 +1,7 @@
-Global Employment Trends
-![lucas-george-wendt-IYm2PCy0f8c-unsplash](https://github.com/user-attachments/assets/eb83e52d-39c1-4fe2-a828-5e1ff4a4a142)
 
 # 📊 Global Employment & GDP Trends Analysis (1991-2022)
 ### Uncovering 30 Years of Economic Shifts Using Python Data Analytics
-
+![lucas-george-wendt-IYm2PCy0f8c-unsplash](https://github.com/user-attachments/assets/eb83e52d-39c1-4fe2-a828-5e1ff4a4a142)
 ---
 
 ## 🎯 The Business Challenge
