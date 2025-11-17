@@ -58,15 +58,14 @@ Global Employment Trends
 ---
 
 ## 📊 Visual Highlights
+<img width="1384" height="684" alt="download (1)" src="https://github.com/user-attachments/assets/2553b10e-0b76-460b-8996-83c39abaf601" />
+*Global Employment in industry (1991-2022) Steady Trends Amidst Global Economic Shifts
 
-![Employment Trends Over Time](screenshots/employment_trends.png)
-*30-year shift from agriculture to services sector across all regions*
+<img width="1583" height="688" alt="download (3)" src="https://github.com/user-attachments/assets/1306fbfc-b72a-4b39-8fa0-84a43f1127da" />
+*Global GDP Extremes in 2022 Comparing The World Largest and Smallest Economies 
 
-![Global Unemployment Heatmap](screenshots/unemployment_heatmap.png)
-*Regional unemployment patterns reveal persistent structural challenges*
-
-![GDP Inequality Comparison](screenshots/gdp_comparison.png)
-*The stark reality of global economic disparity*
+<img width="900" height="1800" alt="newplot" src="https://github.com/user-attachments/assets/3cf4085e-f4a5-42ff-a23a-04c4153ac7c7" />
+*Employment in Agriculture ( 1991 - 2022) Across Regional Leaders
 
 ---
 
